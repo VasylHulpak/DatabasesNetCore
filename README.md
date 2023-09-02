@@ -1,4 +1,4 @@
-# DatabasesNetCore
+# Databases c# ORN
 ### ***Project will provide different types of orm for c#***
 
 ### Types of orm:
